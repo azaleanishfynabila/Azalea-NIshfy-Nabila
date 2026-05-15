@@ -1,36 +1,27 @@
-# No file was attached in the prompt, but I have the User Summary which contains relevant details 
-# such as: Informatics Engineering student, Google Student Ambassador 2026, UI/UX & 3D Visualization, 
-# Google Student Ambassador, Member of Himatika/HMIF, Digital Marketing, etc.
-# I will generate the markdown content as requested.
+# Hi there, I'm Azalea Nishfy Nabila! 👋
 
-readme_content = """# Hi there, I'm Azalea! 👋
-
-I am a passionate Informatics Engineering student and developer dedicated to building impactful digital solutions. I thrive at the intersection of technical engineering and creative design, always looking for new ways to solve complex problems with elegant code.
+I am an Informatics Engineering student who believes that technology and literacy are the keys to social transformation. [cite_start]I am currently seeking opportunities where I can merge my analytical data skills with content creativity to drive meaningful impact. [cite: 14, 15, 17, 20]
 
 ### About Me
-- 🎓 Third-semester Informatics Engineering student
-- 💡 Google Student Ambassador (GSA) | 2026 Cohort
-- 🏛️ Active member of the Informatics Student Association (Himatika/HMIF)
-- 🎨 UI/UX Design enthusiast specializing in 3D visualizations and claymorphism
-- 🌐 Digital Marketing & Content Creator
-- 🇯🇵 Currently learning Japanese
+- [cite_start]🎓 **Education**: Informatics Engineering Student at Universitas Al-Khairiyah (2024 - 2028). [cite: 46, 47]
+- [cite_start]💡 **Role**: Google Student Ambassador 2026. [cite: 23, 24]
+- [cite_start]✍️ **Literacy**: Published anthology book author (e.g., "Segenggam Rasa", "Dialog Juli") and Contributing Writer at Sahabat Literasi. [cite: 19, 30, 32]
+- [cite_start]📱 **Creative**: Content Creator managing 20+ creative content pieces monthly with a focus on Gen Z digital marketing. [cite: 18, 38]
+- [cite_start]🏢 **Organization**: Novo Club Participant at ParagonCorp. [cite: 26, 27]
+- [cite_start]📍 **Location**: Cilegon, Banten, Indonesia. [cite: 15]
 
 ### Tech Stack
-- **Languages:** Python, JavaScript, Java
-- **Design & UI:** Figma, Liquid Glass, Isometric 3D Visualization
-- **Tools & Platforms:** Git, GitHub, Gemini AI, NotebookLM
-- **Focus Areas:** Web Development, Digital Branding, Informatics Research
+- [cite_start]**Skills**: Computer Software Engineering, Interpersonal Communication, Leadership Development, and Google Workspace. [cite: 6, 7, 8, 49]
+- [cite_start]**Certifications**: Gemini Certified Student and Japanese Language A1. [cite: 10, 11]
+- [cite_start]**Experience**: Library Services Intern at Dinas Perpustakaan dan Kearsipan Kota Cilegon. [cite: 40]
 
-### GitHub Statistics
+### GitHub Statistic
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azalea&show_icons=true&theme=vue-dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azalea&layout=compact&theme=vue-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Azalea&show_icons=true&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azalea&layout=compact&theme=vue-dark" />
 </p>
 
 ---
-*“Turning logic into art, one line of code at a time.”*
-
-📫 **How to reach me:** Feel free to explore my repositories or connect with me for collaborations!
-"""
-
-print(readme_content)
+📫 **How to reach me:**
+- [cite_start]**Email**: azaleazaleann@gmail.com [cite: 2]
+- [cite_start]**LinkedIn**: [linkedin.com/in/azalea-nishfy-nabila-852991378](https://www.linkedin.com/in/azalea-nishfy-nabila-852991378) [cite: 3, 4]
